@@ -36,9 +36,9 @@ public class JavaApplication18 {
     }
     
     private void connectToDatabase() {
-        String url = "jdbc:mysql://sql6.freemysqlhosting.net:3306/sql6704764?useSSL=false&allowPublicKeyRetrieval=true";
-        String username = "sql6704764";
-        String password = "TNvVmfytxl";
+        String url = "jdbc:mysql://sql.freedb.tech:3306/freedb_smapp491?useSSL=false&allowPublicKeyRetrieval=true";
+        String username = "freedb_pryme491";
+        String password = "8WE8Px#84P3Yy?2";
         try {
             // Register MySQL JDBC driver
             Class.forName("com.mysql.cj.jdbc.Driver");
